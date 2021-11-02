@@ -1,0 +1,27 @@
+.titlebox{
+    width: 380px;
+    display: inline-block;
+    top: 405px; 
+    padding-left: 150px;
+    
+}
+
+h1 {
+    color: black;
+    font-family: Verdana;
+}
+
+.img {
+    width: 380px;
+    height: 250px;
+    display: inline-block;
+    top: 405px; 
+}    
+
+.table{
+    width: 380px;
+    height: 250px;
+    display: inline-block;
+    top: 405px; 
+
+}
